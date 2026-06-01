@@ -2,6 +2,9 @@
 
 a minimalist, zero-telemetry window manager sniffer that runs locally in your terminal to map your real-time cognitive velocity.
 
+## preview
+![focus interface](screenshot.png)
+
 ## about the developer
 heyyy! i'm a high school senior using this project to learn python, figure out how operating systems track active windows, and finally learn how to use github properly.
 
