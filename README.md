@@ -14,5 +14,5 @@ most productivity tools are web apps that hog memory, or background telemetry lo
 
 1. clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/focus.git](https://github.com/YOUR_USERNAME/focus.git)
+   git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddhimasengar/focus.git)
    cd focus
