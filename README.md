@@ -12,7 +12,7 @@ most productivity tools are web apps that hog memory, or background telemetry lo
 
 ## installation
 
-1. clone the repository:
-   ```bash
-   git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddhimasengar/focus.git)
-   cd focus
+copy and paste this whole thing into your terminal to download, setup, and run the app:
+
+```bash
+git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddhimasengar/focus.git) && cd focus && pip install -r requirements.txt && python run.py
