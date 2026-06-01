@@ -29,6 +29,7 @@ git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddh
 
 ## how to run it
 once the app is already downloaded on your machine, do not run the clone command again (it will throw a destination path error). just open your terminal and run this to launch it instantly:
+
 **windows:**
 ```cmd
 cd focus && py run.py
