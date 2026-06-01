@@ -17,6 +17,7 @@ copy and paste the command for your operating system into your terminal to downl
 ### windows
 ```cmd
 git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddhimasengar/focus.git) && cd focus && py -m pip install -r requirements.txt && py run.py
-
-# for mac / linux:
+```
+### for mac / linux:
+```cmd
 git clone [https://github.com/riddhimasengar/focus.git](https://github.com/riddhimasengar/focus.git) && cd focus && pip install -r requirements.txt && python3 run.py
